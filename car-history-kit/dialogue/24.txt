@@ -1,0 +1,11 @@
+Mira: Another strand matured alongside those changes: electronic safety. Bosch's production-ready electronic anti-lock braking system arrived in nineteen seventy-eight; electronic stability control followed in nineteen ninety-five with Mercedes-Benz.
+
+Rowan: We finally gave the brakes permission to interrupt bad decisions.
+
+Mira: Anti-lock braking uses wheel-speed information to modulate pressure when wheels approach locking. Keeping wheels rolling helps retain steering control during hard braking.
+
+Mira: Stability control compares the driver's intended direction with the vehicle's motion. It can brake individual wheels and reduce engine torque to counter a developing skid.
+
+Rowan: An invisible referee for the car's dance moves.
+
+Mira: But tyres still have limited grip. Electronics cannot cancel ice, excessive speed or the laws of physics.

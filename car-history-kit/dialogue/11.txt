@@ -1,0 +1,13 @@
+Nova: Both driven wheels get power. Why not bolt them to one solid shaft?
+
+Mira: During a turn, the outside wheel travels farther than the inside wheel. A differential transmits torque while allowing different wheel speeds.
+
+Nova: Like two friends walking around a roundabout. The outside friend needs more steps and probably more snacks.
+
+Mira: An ordinary open differential has a traction limitation: if one wheel can support very little torque, that can limit useful torque at the other. Limited-slip and locking designs address this differently.
+
+Nova: And steering?
+
+Mira: A common rack-and-pinion system converts steering-wheel rotation into sideways rack movement that turns the road wheels. Hydraulic or electric assistance reduces driver effort.
+
+Nova: Power steering: because parking should not be an upper-body qualification exam.

@@ -1,0 +1,13 @@
+Milo: More power means we simply make the engine bigger?
+
+Mira: Not necessarily. A turbocharger uses energy in the exhaust flow to spin a turbine. A shaft connects it to a compressor that pushes more air into the engine.
+
+Milo: The exhaust was leaving work. Management has found it another task.
+
+Mira: More air allows more fuel to burn when the engine is designed and controlled for it. An intercooler reduces the temperature of the compressed intake air.
+
+Mira: Boost control limits pressure. The system adds heat and mechanical demands, and some combinations have a delay in response called turbo lag. It is not free energy.
+
+Milo: A supercharger?
+
+Mira: A conventional supercharger is driven mechanically by the engine rather than by an exhaust turbine. Similar aim, different way of paying the energy bill.

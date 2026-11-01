@@ -1,0 +1,11 @@
+Malik: If the electric motor is efficient, can we stop worrying about energy?
+
+Mira: No. Any car needs energy to accelerate, climb, overcome tyre losses and push air aside. At otherwise similar conditions, aerodynamic drag force grows roughly with speed squared.
+
+Malik: So driving faster makes the air increasingly uncooperative.
+
+Mira: An electric car has no combustion tailpipe emissions, but manufacturing, battery production and electricity generation still have impacts. A life-cycle comparison includes those stages.
+
+Mira: The electricity mix, vehicle size and use affect that comparison. Zero tailpipe emissions does not mean zero impact from everything involved in making and using the vehicle.
+
+Malik: The exhaust pipe disappeared. The need to count honestly did not.

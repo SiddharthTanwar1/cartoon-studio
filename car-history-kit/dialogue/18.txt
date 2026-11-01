@@ -1,0 +1,13 @@
+Jun: The brakes destroy speed. Where does the speed go?
+
+Mira: Friction brakes convert much of the car's kinetic energy into heat. In a common hydraulic system, pedal force creates fluid pressure that operates brakes at the wheels.
+
+Mira: Disc brakes clamp pads against a rotating disc. Drum brakes press shoes against the inside of a drum. The tyres must still grip the road to slow the car.
+
+Jun: So the car warms its dinner plates to prevent us becoming a collision.
+
+Mira: At the same mass, kinetic energy depends on speed squared. At thirty kilometres per hour, call it one unit. At sixty, it is four units. At ninety, nine.
+
+Jun: Double the speed, quadruple the energy. Physics charges surge pricing.
+
+Mira: This is an energy comparison, not a measured stopping-distance chart. Reaction time, grip, gradient and the braking system also matter.

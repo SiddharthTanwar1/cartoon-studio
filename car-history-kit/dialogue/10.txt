@@ -1,0 +1,13 @@
+Milo: Why does a running engine not stall whenever the car stops?
+
+Mira: A manual car can disconnect the engine from the gearbox using its clutch. Reconnecting progressively lets the engine bring the car into motion.
+
+Mira: Gears trade rotational speed for torque, which means turning force. A low gear multiplies wheel torque while the wheels turn more slowly relative to the engine. Think of climbing on a bicycle.
+
+Milo: The easier pedalling gear. My legs understand engineering when there is a hill.
+
+Mira: Higher gears suit faster travel with fewer engine revolutions per wheel turn. Gears do not create free power; real transmissions also lose some energy as heat.
+
+Milo: And horsepower?
+
+Mira: Power is how quickly work is done. For a rotating shaft, it depends on torque and rotational speed together. A large torque number alone does not describe the whole performance.

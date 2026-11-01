@@ -1,0 +1,20 @@
+[
+  {
+    "line": 1,
+    "expected": "The coffee machine has become self aware.",
+    "heard": " the coffee machine has become self-aware.",
+    "word_error_rate": 0.0
+  },
+  {
+    "line": 2,
+    "expected": "Does it still make coffee?",
+    "heard": " Does it still make coffee?",
+    "word_error_rate": 0.0
+  },
+  {
+    "line": 3,
+    "expected": "Only if you say please.",
+    "heard": " only if you say \"please\"",
+    "word_error_rate": 0.0
+  }
+]

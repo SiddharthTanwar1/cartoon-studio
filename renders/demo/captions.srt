@@ -1,0 +1,27 @@
+1
+00:00:00,350 --> 00:00:03,330
+Good news. Your robot vacuum works again.
+
+2
+00:00:03,580 --> 00:00:06,490
+Great. Why is it wearing my headphones?
+
+3
+00:00:06,790 --> 00:00:08,530
+I upgraded its intelligence.
+
+4
+00:00:08,680 --> 00:00:10,600
+How intelligent?
+
+5
+00:00:10,900 --> 00:00:12,820
+It just asked for weekends off.
+
+6
+00:00:13,270 --> 00:00:14,710
+Can you reset it?
+
+7
+00:00:14,960 --> 00:00:16,700
+It has already hired a lawyer.

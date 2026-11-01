@@ -1,0 +1,11 @@
+Jun: The piston goes up and down. The wheels go round. Who translates?
+
+Mira: A connecting rod joins the piston to an offset crank on the crankshaft. That mechanism converts reciprocating motion into rotation. A flywheel helps smooth the pulses.
+
+Jun: A translator fluent in both boing and spin.
+
+Mira: The camshaft opens valves in step with the crankshaft, commonly through a belt or chain drive. A typical four-stroke camshaft turns once for every two crankshaft turns.
+
+Mira: Multiple cylinders deliver their power strokes at different times. Displacement is their combined swept volume, not a direct horsepower score. Breathing, speed, combustion and boost also matter.
+
+Jun: So a two-litre engine is a volume measurement, not how much petrol it drinks with lunch.

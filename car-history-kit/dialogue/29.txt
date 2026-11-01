@@ -1,0 +1,11 @@
+Anaya: What actually travels through a lithium-ion battery?
+
+Mira: During discharge, lithium ions move inside the cell through the electrolyte, while electrons travel through the external circuit to do useful work. Recharging reverses the overall process.
+
+Anaya: Two coordinated routes. The ions stay inside; the electrons take the working commute.
+
+Mira: Cells are combined into a pack. A battery-management system monitors conditions, and thermal management helps keep operation within suitable temperatures. Different battery chemistries trade cost, energy density and other properties.
+
+Anaya: So a battery pack is less a giant AA battery and more a closely supervised apartment complex.
+
+Mira: And capacity and power are different. Kilowatt-hours measure energy stored; kilowatts measure the rate of energy transfer. Think tank size versus how quickly fuel can flow.

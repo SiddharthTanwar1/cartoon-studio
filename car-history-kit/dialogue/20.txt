@@ -1,0 +1,11 @@
+Mira: Bosch put its Jetronic electronic petrol injection into series production in nineteen sixty-seven. Electronics increasingly helped control what had been a largely mechanical balancing act.
+
+Malik: The engine got a brain. Mine still forgets why it entered the kitchen.
+
+Mira: Sensors measure conditions such as airflow or pressure, temperature and crankshaft position. A controller uses this information to command fuel delivery and ignition.
+
+Mira: Oxygen sensing in the exhaust can provide feedback for mixture control. Electronic accelerator pedals send a request to the controller rather than always tugging a cable directly.
+
+Malik: The accelerator is now an email marked urgent.
+
+Mira: Precise control can improve starting, drivability, efficiency and emissions. The trade-off is more components and software to understand when something goes wrong.

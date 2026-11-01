@@ -1,0 +1,13 @@
+Ellie: How does slowing down charge a battery?
+
+Mira: The drivetrain can make an electric motor act as a generator. Taking energy from the moving car creates a resisting torque, while some of that energy returns electrically to the battery.
+
+Ellie: So friction braking turns the receipt into heat. Regeneration gets part of the purchase refunded.
+
+Mira: Exactly: part. Conversion losses remain. Battery temperature, charge level and power limits can restrict recovery. Ordinary friction brakes still have important work to do.
+
+Ellie: Could I accelerate and brake repeatedly to make extra electricity?
+
+Mira: No. Every round trip loses energy. Regeneration recovers some energy you already spent; it does not manufacture a bonus supply.
+
+Ellie: Physics has rejected my cashback scheme.

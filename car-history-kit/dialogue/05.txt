@@ -1,0 +1,15 @@
+Milo: Explain the petrol engine without saying, the engine engines.
+
+Mira: First: intake. The piston moves down and the intake valve opens, letting air in. Depending on the design, fuel mixes with that air before entering or is injected directly into the cylinder.
+
+Mira: Second: compression. The piston moves up with the valves closed, squeezing the charge into a smaller space.
+
+Milo: Like packing a suitcase, except the suitcase is about to become extremely enthusiastic.
+
+Mira: Third: power. A timed spark starts combustion. The hot gases expand and push the piston down.
+
+Mira: Fourth: exhaust. The exhaust valve opens and the rising piston pushes spent gases out. Then the sequence repeats.
+
+Milo: Breathe in, squeeze, push, breathe out. The engine has a more consistent workout routine than I do.
+
+Mira: Four piston strokes take two crankshaft revolutions. It is controlled combustion; destructive knocking is not the goal.

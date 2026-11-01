@@ -1,0 +1,12 @@
+{
+  "scenes": 33,
+  "spoken_words": 3925,
+  "dialogue_turns": 208,
+  "explainers": 28,
+  "charts": 2,
+  "maximum_turn_characters": 244,
+  "errors": [],
+  "warnings": [],
+  "estimated_seconds": 1652,
+  "rendered_video": false
+}

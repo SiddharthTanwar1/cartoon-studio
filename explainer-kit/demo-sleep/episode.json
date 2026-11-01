@@ -1,0 +1,120 @@
+{
+  "title": "07 \u00b7 Health fact one: Sleep is the maintenance shift",
+  "characters": {
+    "Mira": {
+      "rig": "customer",
+      "avatar": "mira",
+      "shirt": "#53928b",
+      "hair": "#7f8c85",
+      "skin": "#d3a080",
+      "voice": "A mature adult woman with a clear lower mid range English voice, measured documentary delivery, articulate and gently wry."
+    },
+    "Rowan": {
+      "rig": "mechanic",
+      "avatar": "rowan",
+      "shirt": "#738f75",
+      "hair": "#93563d",
+      "skin": "#e5b296",
+      "voice": "An adult voice with a light medium pitch, clear English, thoughtful conversational delivery and a wry playful tone."
+    }
+  },
+  "lines": [
+    {
+      "emotion": "deadpan",
+      "pose": "shrug",
+      "shot": "wide",
+      "pause": 0.55,
+      "speaker": "Rowan",
+      "text": "I slept four hours. But I feel ready to make eight hours of questionable decisions.",
+      "acting": {
+        "head_tilt": 3.0
+      },
+      "direction": "expression=deadpan; gesture=shrug; camera=wide; pause=0.55; head_tilt=3"
+    },
+    {
+      "emotion": "neutral",
+      "pose": "present",
+      "shot": "speaker",
+      "pause": 0.25,
+      "speaker": "Mira",
+      "text": "Sleep supports attention, memory and emotional well-being. It is maintenance time, not wasted time.",
+      "direction": "expression=neutral; gesture=present; camera=speaker; pause=0.25"
+    },
+    {
+      "emotion": "deadpan",
+      "pose": "shrug",
+      "shot": "speaker",
+      "pause": 0.55,
+      "speaker": "Rowan",
+      "text": "My brain's night staff keep arriving while I am watching one last video. They have formed a union.",
+      "acting": {
+        "head_tilt": 3.0
+      },
+      "direction": "expression=deadpan; gesture=shrug; camera=speaker; pause=0.55; head_tilt=3"
+    },
+    {
+      "emotion": "neutral",
+      "pose": "present",
+      "shot": "speaker",
+      "pause": 0.25,
+      "speaker": "Mira",
+      "text": "Children aged six to twelve generally need nine to twelve hours. Teenagers need eight to ten. Adults aged eighteen to sixty generally need at least seven.",
+      "visual_step": 3,
+      "direction": "expression=neutral; gesture=present; camera=speaker; pause=0.25"
+    },
+    {
+      "emotion": "deadpan",
+      "pose": "shrug",
+      "shot": "speaker",
+      "pause": 0.55,
+      "speaker": "Rowan",
+      "text": "So a child is not an adult with a smaller charging cable.",
+      "acting": {
+        "head_tilt": 3.0
+      },
+      "direction": "expression=deadpan; gesture=shrug; camera=speaker; pause=0.55; head_tilt=3"
+    },
+    {
+      "emotion": "neutral",
+      "pose": "present",
+      "shot": "speaker",
+      "pause": 0.25,
+      "speaker": "Mira",
+      "text": "Protect enough sleep time and keep bedtime and waking time consistent. Regular trouble sleeping deserves attention from a healthcare professional.",
+      "direction": "expression=neutral; gesture=present; camera=speaker; pause=0.25"
+    },
+    {
+      "emotion": "happy",
+      "pose": "present",
+      "shot": "two",
+      "pause": 0.4,
+      "speaker": "Rowan",
+      "text": "Tonight, one last video will have an actual definition of last.",
+      "direction": "expression=happy; gesture=present; camera=two; pause=0.4"
+    }
+  ],
+  "background": "explainer-stage.png",
+  "background_prompt": "",
+  "set_name": "Clean explainer stage",
+  "direction": "Two standing characters converse. Use facial expressions, arm gestures and camera changes. No walking, object handling, physical demonstrations or animated cutaways are required. Let the dry punchlines breathe.",
+  "prop": null,
+  "format": "landscape",
+  "resolution": 720,
+  "fps": 30,
+  "seed": 712,
+  "captions": true,
+  "scene_type": "explainer",
+  "visual": {
+    "nodes": [
+      "Ages 6\u201312: 9\u201312 hours",
+      "Teenagers: 8\u201310 hours",
+      "Ages 18\u201360: at least 7 hours"
+    ],
+    "type": "diagram",
+    "title": "Sleep needs change with age",
+    "caption": "Daily recommendations; individual needs and older-adult guidance vary",
+    "source": "CDC: About Sleep",
+    "unit": "",
+    "animation": "reveal"
+  }
+}

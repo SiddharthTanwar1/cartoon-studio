@@ -1,0 +1,11 @@
+Rowan: Why does a huge charger number not guarantee a tiny charging time?
+
+Mira: On an AC connection, the car's onboard charger converts alternating current into DC for the battery. With DC fast charging, that conversion happens outside the car.
+
+Mira: Actual power depends on the charger, vehicle limits, battery temperature and state of charge. Charging commonly slows as the battery gets fuller.
+
+Rowan: Like packing the last clothes into a suitcase, except the suitcase has sensors and refuses to negotiate.
+
+Mira: Range also changes with speed, weather, terrain and heating or cooling demand. Charging infrastructure matters just as fuel infrastructure mattered to Bertha Benz.
+
+Rowan: The pharmacy joke has become a charger-location app. History really does enjoy a callback.

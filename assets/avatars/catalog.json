@@ -1,0 +1,173 @@
+[
+  {
+    "id": "milo",
+    "label": "Milo \u00b7 existing hiker",
+    "name": "Milo",
+    "actor": {
+      "rig": "mechanic",
+      "shirt": "#ee794e",
+      "hair": "#383045",
+      "skin": "#e9aa83",
+      "voice": "A young adult man with a warm mid range American voice, casual conversational delivery, lightly amused, clear speech."
+    },
+    "preview": "/assets/avatars/otzi/milo.png"
+  },
+  {
+    "id": "nova",
+    "label": "Nova \u00b7 existing hiker",
+    "name": "Nova",
+    "actor": {
+      "rig": "customer",
+      "shirt": "#548b9e",
+      "hair": "#24283d",
+      "skin": "#bd805f",
+      "voice": "A young adult woman with a clear mid range American voice, dry wit, relaxed conversational delivery, natural speech."
+    },
+    "preview": "/assets/avatars/otzi/nova.png"
+  },
+  {
+    "id": "otzi",
+    "label": "\u00d6tzi \u00b7 without cap",
+    "name": "Otzi",
+    "actor": {
+      "rig": "mechanic",
+      "avatar": "otzi",
+      "shirt": "#a18259",
+      "hair": "#42362d",
+      "skin": "#986945",
+      "voice": "A mature adult man with a warm low mid range voice, clear English, dry understated humor and natural conversational pacing."
+    },
+    "preview": "/assets/avatars/otzi/otzi.png"
+  },
+  {
+    "id": "otzi_travel",
+    "label": "\u00d6tzi \u00b7 fur cap and copper axe",
+    "name": "Otzi",
+    "actor": {
+      "rig": "mechanic",
+      "avatar": "otzi_travel",
+      "shirt": "#a18259",
+      "hair": "#42362d",
+      "skin": "#986945",
+      "voice": "A mature adult man with a warm low mid range voice, clear English, dry understated humor and natural conversational pacing."
+    },
+    "preview": "/assets/avatars/otzi/otzi_travel.png"
+  },
+  {
+    "id": "mira",
+    "label": "Mira \u00b7 fictional researcher",
+    "name": "Mira",
+    "actor": {
+      "rig": "customer",
+      "avatar": "mira",
+      "shirt": "#53928b",
+      "hair": "#7f8c85",
+      "skin": "#d3a080",
+      "voice": "A mature adult woman with a clear lower mid range English voice, measured documentary delivery, articulate and gently wry."
+    },
+    "preview": "/assets/avatars/otzi/mira.png"
+  },
+  {
+    "id": "officer",
+    "label": "Officer \u00b7 fictional reenactment",
+    "name": "Officer",
+    "actor": {
+      "rig": "mechanic",
+      "avatar": "officer",
+      "shirt": "#3b536d",
+      "hair": "#60544b",
+      "skin": "#dba17e",
+      "voice": "An older adult man with a low slightly gravelly English voice, calm matter of fact delivery, clear and conversational."
+    },
+    "preview": "/assets/avatars/otzi/officer.png"
+  },
+  {
+    "id": "unknown",
+    "label": "Unknown person \u00b7 evidence symbol",
+    "name": "Unknown",
+    "actor": {
+      "rig": "mechanic",
+      "avatar": "unknown",
+      "shirt": "#48546a",
+      "hair": "#48546a",
+      "skin": "#48546a",
+      "voice": "A neutral adult voice."
+    },
+    "preview": "/assets/avatars/otzi/unknown.png"
+  },
+  {
+    "id": "ellie",
+    "label": "Ellie \u00b7 Blonde woman \u00b7 gold cardigan",
+    "name": "Ellie",
+    "actor": {
+      "rig": "customer",
+      "avatar": "ellie",
+      "shirt": "#c6a04a",
+      "hair": "#d7b65f",
+      "skin": "#efc3a0",
+      "voice": "A young adult woman with a warm medium pitch English voice, animated conversational delivery, clear words and gentle dry humor."
+    },
+    "preview": "/assets/avatars/ensemble/ellie.png",
+    "description": "Blonde woman \u00b7 gold cardigan"
+  },
+  {
+    "id": "jun",
+    "label": "Jun \u00b7 East Asian man \u00b7 teal overshirt",
+    "name": "Jun",
+    "actor": {
+      "rig": "mechanic",
+      "avatar": "jun",
+      "shirt": "#408985",
+      "hair": "#202b36",
+      "skin": "#d8ad8b",
+      "voice": "An adult man with a clear medium pitch English voice, thoughtful conversational pace, lightly playful delivery."
+    },
+    "preview": "/assets/avatars/ensemble/jun.png",
+    "description": "East Asian man \u00b7 teal overshirt"
+  },
+  {
+    "id": "anaya",
+    "label": "Anaya \u00b7 South Asian woman \u00b7 rectangular glasses",
+    "name": "Anaya",
+    "actor": {
+      "rig": "customer",
+      "avatar": "anaya",
+      "shirt": "#806b9b",
+      "hair": "#352c2e",
+      "skin": "#ae7854",
+      "voice": "An adult woman with a resonant medium low English voice, friendly confident delivery, crisp articulation and natural pacing."
+    },
+    "preview": "/assets/avatars/ensemble/anaya.png",
+    "description": "South Asian woman \u00b7 rectangular glasses"
+  },
+  {
+    "id": "malik",
+    "label": "Malik \u00b7 Black man \u00b7 curls and coral jacket",
+    "name": "Malik",
+    "actor": {
+      "rig": "mechanic",
+      "avatar": "malik",
+      "shirt": "#c8745e",
+      "hair": "#282634",
+      "skin": "#855d48",
+      "voice": "An adult man with a warm low English voice, relaxed conversational rhythm and understated comic timing."
+    },
+    "preview": "/assets/avatars/ensemble/malik.png",
+    "description": "Black man \u00b7 curls and coral jacket"
+  },
+  {
+    "id": "rowan",
+    "label": "Rowan \u00b7 Androgynous look \u00b7 auburn hair and round glasses",
+    "name": "Rowan",
+    "actor": {
+      "rig": "mechanic",
+      "avatar": "rowan",
+      "shirt": "#738f75",
+      "hair": "#93563d",
+      "skin": "#e5b296",
+      "voice": "An adult voice with a light medium pitch, clear English, thoughtful conversational delivery and a wry playful tone."
+    },
+    "preview": "/assets/avatars/ensemble/rowan.png",
+    "description": "Androgynous look \u00b7 auburn hair and round glasses"
+  }
+]

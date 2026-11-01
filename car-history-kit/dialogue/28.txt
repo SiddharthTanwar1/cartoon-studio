@@ -1,0 +1,11 @@
+Mira: In a typical modern battery-electric drivetrain, the battery supplies direct current. An inverter controls electrical power for the traction motor.
+
+Mira: Controlled currents in the stationary part, the stator, create magnetic fields. Their interaction with the rotor produces turning force. Motor designs differ in how they create those magnetic fields.
+
+Milo: A carefully timed magnetic dance, instead of pistons having a heated disagreement.
+
+Mira: Many electric cars use a single fixed reduction ratio because their motors work across a broad speed range. They still have gears; some designs use more than one ratio.
+
+Milo: Fewer gear changes does not mean no engineering.
+
+Mira: Right. Bearings, reduction gears, a differential, cooling and control electronics still matter. A small auxiliary electrical system also powers accessories and control functions.

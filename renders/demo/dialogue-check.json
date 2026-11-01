@@ -1,0 +1,44 @@
+[
+  {
+    "line": 1,
+    "expected": "Good news. Your robot vacuum works again.",
+    "heard": " Good news! Your robot vacuum works again!",
+    "word_error_rate": 0.0
+  },
+  {
+    "line": 2,
+    "expected": "Great. Why is it wearing my headphones?",
+    "heard": " Great! Why is it wearing my headphones?",
+    "word_error_rate": 0.0
+  },
+  {
+    "line": 3,
+    "expected": "I upgraded its intelligence.",
+    "heard": " I upgraded its intelligence.",
+    "word_error_rate": 0.0
+  },
+  {
+    "line": 4,
+    "expected": "How intelligent?",
+    "heard": " How intelligent!",
+    "word_error_rate": 0.0
+  },
+  {
+    "line": 5,
+    "expected": "It just asked for weekends off.",
+    "heard": " It just asked for weekends off.",
+    "word_error_rate": 0.0
+  },
+  {
+    "line": 6,
+    "expected": "Can you reset it?",
+    "heard": " Can you reset it?",
+    "word_error_rate": 0.0
+  },
+  {
+    "line": 7,
+    "expected": "It has already hired a lawyer.",
+    "heard": " it has already hired a lawyer.",
+    "word_error_rate": 0.0
+  }
+]

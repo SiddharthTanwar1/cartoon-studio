@@ -1,0 +1,11 @@
+Nova: Now the car can steer, brake and complain about lane markings. Has the driver become decorative?
+
+Mira: Not with ordinary driver-assistance systems. Cameras, radar and other sensors can support features such as adaptive cruise control or lane assistance. Capabilities and limitations vary.
+
+Mira: At Level Two automation, the system can control steering and speed together, but the driver must remain engaged and supervise. That is different from a system authorised to operate without a driver under defined conditions.
+
+Nova: The label assistant is doing important work in that sentence.
+
+Mira: Software also manages powertrains, diagnostics and many comfort functions. But a confident dashboard graphic is not proof that a car understands every situation.
+
+Nova: We started by removing the horse. Let us not remove common sense as an optional extra.

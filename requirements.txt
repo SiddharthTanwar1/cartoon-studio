@@ -1,0 +1,8 @@
+numpy==2.4.3
+Pillow==12.3.0
+soundfile==0.13.1
+resvg-py==0.5.0
+num2words==0.5.14
+cffi==2.1.1
+pycparser==3.0
+docopt==0.6.2

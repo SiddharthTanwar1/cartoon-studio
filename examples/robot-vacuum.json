@@ -1,0 +1,23 @@
+{
+  "title": "The upgrade",
+  "background": "garage.png",
+  "format": "square",
+  "fps": 30,
+  "resolution": 720,
+  "seed": 712,
+  "captions": true,
+  "characters": {
+    "Milo": {"rig": "mechanic", "shirt": "#ee794e", "hair": "#383045", "skin": "#e9aa83", "voice": "A young adult man with a warm mid range American voice, casual conversational delivery, lightly amused, clear speech."},
+    "Nova": {"rig": "customer", "shirt": "#548b9e", "hair": "#24283d", "skin": "#bd805f", "voice": "A young adult woman with a clear mid range American voice, dry wit, relaxed conversational delivery, natural speech."}
+  },
+  "lines": [
+    {"speaker": "Milo", "text": "Good news. Your robot vacuum works again.", "emotion": "happy", "pose": "present", "shot": "speaker", "pause": 0.25},
+    {"speaker": "Nova", "text": "Great. Why is it wearing my headphones?", "emotion": "skeptical", "pose": "question", "shot": "speaker", "pause": 0.3},
+    {"speaker": "Milo", "text": "I upgraded its intelligence.", "emotion": "proud", "pose": "point", "shot": "speaker", "pause": 0.15},
+    {"speaker": "Nova", "text": "How intelligent?", "emotion": "skeptical", "pose": "hips", "shot": "speaker", "pause": 0.3},
+    {"speaker": "Milo", "text": "It just asked for weekends off.", "emotion": "worried", "pose": "shrug", "shot": "two", "pause": 0.45},
+    {"speaker": "Nova", "text": "Can you reset it?", "emotion": "worried", "pose": "question", "shot": "speaker", "pause": 0.25},
+    {"speaker": "Milo", "text": "It has already hired a lawyer.", "emotion": "deadpan", "pose": "present", "shot": "wide", "pause": 1.0}
+  ],
+  "prop": "robot"
+}

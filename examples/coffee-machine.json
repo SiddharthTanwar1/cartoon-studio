@@ -1,0 +1,52 @@
+{
+  "title": "The coffee machine",
+  "background": "set-83c1272c.png",
+  "format": "square",
+  "fps": 30,
+  "resolution": 720,
+  "seed": 712,
+  "captions": true,
+  "characters": {
+    "Milo": {
+      "rig": "mechanic",
+      "shirt": "#ee794e",
+      "hair": "#383045",
+      "skin": "#e9aa83",
+      "voice": "A young adult man with a warm mid range American voice, casual conversational delivery, lightly amused, clear speech."
+    },
+    "Nova": {
+      "rig": "customer",
+      "shirt": "#548b9e",
+      "hair": "#24283d",
+      "skin": "#bd805f",
+      "voice": "A young adult woman with a clear mid range American voice, dry wit, relaxed conversational delivery, natural speech."
+    }
+  },
+  "lines": [
+    {
+      "speaker": "Milo",
+      "text": "The coffee machine has become self aware.",
+      "emotion": "neutral",
+      "pose": "present",
+      "shot": "speaker",
+      "pause": 0.25
+    },
+    {
+      "speaker": "Nova",
+      "text": "Does it still make coffee?",
+      "emotion": "skeptical",
+      "pose": "question",
+      "shot": "speaker",
+      "pause": 0.25
+    },
+    {
+      "speaker": "Milo",
+      "text": "Only if you say please.",
+      "emotion": "neutral",
+      "pose": "present",
+      "shot": "wide",
+      "pause": 0.25
+    }
+  ],
+  "prop": null
+}

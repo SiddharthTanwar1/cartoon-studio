@@ -1,0 +1,120 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/siddharthtanwar/AI_EXPLAINER_FACTORY/models/whisper/ggml-small.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,090"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 90
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,090",
+				"to": "00:00:01,000"
+			},
+			"offsets": {
+				"from": 90,
+				"to": 1000
+			},
+			"text": " Great!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,000",
+				"to": "00:00:01,220"
+			},
+			"offsets": {
+				"from": 1000,
+				"to": 1220
+			},
+			"text": " Why"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,220",
+				"to": "00:00:01,450"
+			},
+			"offsets": {
+				"from": 1220,
+				"to": 1450
+			},
+			"text": " is"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,450",
+				"to": "00:00:01,490"
+			},
+			"offsets": {
+				"from": 1450,
+				"to": 1490
+			},
+			"text": " it"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,490",
+				"to": "00:00:01,980"
+			},
+			"offsets": {
+				"from": 1490,
+				"to": 1980
+			},
+			"text": " wearing"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,980",
+				"to": "00:00:02,120"
+			},
+			"offsets": {
+				"from": 1980,
+				"to": 2120
+			},
+			"text": " my"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,120",
+				"to": "00:00:03,040"
+			},
+			"offsets": {
+				"from": 2120,
+				"to": 3040
+			},
+			"text": " headphones?"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+Anaya: Does pressing the accelerator pour more petrol into the fire?
+
+Mira: In a conventional petrol engine, the throttle helps control incoming air. Fuel delivery must match. Older carburettors use pressure differences in flowing air to draw and mix fuel.
+
+Mira: Modern injection meters fuel more precisely. Port injection sprays before the intake valve; direct injection sprays into the cylinder. An ignition coil supplies the high voltage for the spark.
+
+Anaya: A carburettor is a mechanical recipe. Injection adds a very fussy digital chef.
+
+Mira: Too much or too little fuel changes combustion. Timing matters too: ignition is arranged so the pressure rise does useful work as the piston moves.
+
+Anaya: The engine wants dinner and an appointment, not just a bucket of enthusiasm.

@@ -1,0 +1,11 @@
+1
+00:00:00,350 --> 00:00:02,860
+The coffee machine has become self aware.
+
+2
+00:00:03,110 --> 00:00:04,710
+Does it still make coffee?
+
+3
+00:00:04,960 --> 00:00:06,510
+Only if you say please.

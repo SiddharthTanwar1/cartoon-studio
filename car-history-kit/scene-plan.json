@@ -1,0 +1,233 @@
+[
+  {
+    "scene": 1,
+    "title": "The horse has been made redundant",
+    "words": 94,
+    "estimated_seconds": 40.1,
+    "visual": "dialogue"
+  },
+  {
+    "scene": 2,
+    "title": "1769: A kettle applies for a driving licence",
+    "words": 101,
+    "estimated_seconds": 43.0,
+    "visual": "diagram"
+  },
+  {
+    "scene": 3,
+    "title": "1876\u20131886: Bring the fire indoors",
+    "words": 123,
+    "estimated_seconds": 51.8,
+    "visual": "diagram"
+  },
+  {
+    "scene": 4,
+    "title": "1888: Bertha takes the prototype outside",
+    "words": 120,
+    "estimated_seconds": 50.6,
+    "visual": "dialogue"
+  },
+  {
+    "scene": 5,
+    "title": "Under the bonnet: The four-stroke dance",
+    "words": 139,
+    "estimated_seconds": 58.6,
+    "visual": "diagram"
+  },
+  {
+    "scene": 6,
+    "title": "Pistons, crankshafts and the engine orchestra",
+    "words": 116,
+    "estimated_seconds": 48.8,
+    "visual": "diagram"
+  },
+  {
+    "scene": 7,
+    "title": "Air, fuel and a very punctual spark",
+    "words": 118,
+    "estimated_seconds": 49.6,
+    "visual": "diagram"
+  },
+  {
+    "scene": 8,
+    "title": "Starting and charging: Two different electrical jobs",
+    "words": 113,
+    "estimated_seconds": 47.6,
+    "visual": "diagram"
+  },
+  {
+    "scene": 9,
+    "title": "Oil and coolant: The unglamorous heroes",
+    "words": 121,
+    "estimated_seconds": 51.2,
+    "visual": "diagram"
+  },
+  {
+    "scene": 10,
+    "title": "The gearbox: A bicycle lesson with invoices",
+    "words": 137,
+    "estimated_seconds": 57.3,
+    "visual": "diagram"
+  },
+  {
+    "scene": 11,
+    "title": "The differential: Why corners require diplomacy",
+    "words": 118,
+    "estimated_seconds": 50.0,
+    "visual": "diagram"
+  },
+  {
+    "scene": 12,
+    "title": "1897: Diesel does ignition differently",
+    "words": 111,
+    "estimated_seconds": 46.8,
+    "visual": "diagram"
+  },
+  {
+    "scene": 13,
+    "title": "Around 1900: Three engines enter the chat",
+    "words": 113,
+    "estimated_seconds": 47.6,
+    "visual": "diagram"
+  },
+  {
+    "scene": 14,
+    "title": "1908\u20131913: The invention becomes a production problem",
+    "words": 120,
+    "estimated_seconds": 50.3,
+    "visual": "bar"
+  },
+  {
+    "scene": 15,
+    "title": "Bodies, layouts and the disappearing third pedal",
+    "words": 123,
+    "estimated_seconds": 51.5,
+    "visual": "diagram"
+  },
+  {
+    "scene": 16,
+    "title": "Automatic, dual-clutch and CVT: Three ways to shift",
+    "words": 136,
+    "estimated_seconds": 57.1,
+    "visual": "diagram"
+  },
+  {
+    "scene": 17,
+    "title": "Tyres and suspension: Negotiating with the road",
+    "words": 117,
+    "estimated_seconds": 49.2,
+    "visual": "diagram"
+  },
+  {
+    "scene": 18,
+    "title": "Brakes: Turning urgency into heat",
+    "words": 136,
+    "estimated_seconds": 57.1,
+    "visual": "bar"
+  },
+  {
+    "scene": 19,
+    "title": "1959: The passenger is part of the engineering",
+    "words": 114,
+    "estimated_seconds": 47.7,
+    "visual": "diagram"
+  },
+  {
+    "scene": 20,
+    "title": "1967 onward: The engine gets a nervous system",
+    "words": 118,
+    "estimated_seconds": 49.5,
+    "visual": "diagram"
+  },
+  {
+    "scene": 21,
+    "title": "1970s: The exhaust becomes everyone\u2019s business",
+    "words": 126,
+    "estimated_seconds": 53.0,
+    "visual": "diagram"
+  },
+  {
+    "scene": 22,
+    "title": "The turbo: Your exhaust gets a second job",
+    "words": 127,
+    "estimated_seconds": 53.3,
+    "visual": "diagram"
+  },
+  {
+    "scene": 23,
+    "title": "1983 and beyond: There is more than one national story",
+    "words": 115,
+    "estimated_seconds": 48.1,
+    "visual": "dialogue"
+  },
+  {
+    "scene": 24,
+    "title": "1978\u20131995: Brakes learn to think in milliseconds",
+    "words": 109,
+    "estimated_seconds": 45.9,
+    "visual": "diagram"
+  },
+  {
+    "scene": 25,
+    "title": "1997: The hybrid stops choosing sides",
+    "words": 118,
+    "estimated_seconds": 49.6,
+    "visual": "diagram"
+  },
+  {
+    "scene": 26,
+    "title": "Regeneration: A refund, not free money",
+    "words": 113,
+    "estimated_seconds": 48.0,
+    "visual": "diagram"
+  },
+  {
+    "scene": 27,
+    "title": "2008\u20132010: Electric cars make a louder quiet entrance",
+    "words": 112,
+    "estimated_seconds": 47.4,
+    "visual": "dialogue"
+  },
+  {
+    "scene": 28,
+    "title": "Inside an EV: Magnets replace the combustion party",
+    "words": 121,
+    "estimated_seconds": 50.4,
+    "visual": "diagram"
+  },
+  {
+    "scene": 29,
+    "title": "Inside the battery: Chemistry, not bottled lightning",
+    "words": 120,
+    "estimated_seconds": 50.1,
+    "visual": "diagram"
+  },
+  {
+    "scene": 30,
+    "title": "Charging: The last ten percent has questions",
+    "words": 114,
+    "estimated_seconds": 48.0,
+    "visual": "diagram"
+  },
+  {
+    "scene": 31,
+    "title": "Efficiency: The air also sends an invoice",
+    "words": 109,
+    "estimated_seconds": 45.7,
+    "visual": "diagram"
+  },
+  {
+    "scene": 32,
+    "title": "The software era: Assistance is not a chauffeur",
+    "words": 125,
+    "estimated_seconds": 52.1,
+    "visual": "diagram"
+  },
+  {
+    "scene": 33,
+    "title": "Two centuries, one ongoing group project",
+    "words": 128,
+    "estimated_seconds": 54.5,
+    "visual": "dialogue"
+  }
+]

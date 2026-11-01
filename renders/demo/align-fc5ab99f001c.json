@@ -1,0 +1,109 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/siddharthtanwar/AI_EXPLAINER_FACTORY/models/whisper/ggml-small.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,080"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 80
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,080",
+				"to": "00:00:00,130"
+			},
+			"offsets": {
+				"from": 80,
+				"to": 130
+			},
+			"text": " It"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,130",
+				"to": "00:00:00,440"
+			},
+			"offsets": {
+				"from": 130,
+				"to": 440
+			},
+			"text": " just"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,440",
+				"to": "00:00:00,730"
+			},
+			"offsets": {
+				"from": 440,
+				"to": 730
+			},
+			"text": " asks"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,730",
+				"to": "00:00:00,850"
+			},
+			"offsets": {
+				"from": 730,
+				"to": 850
+			},
+			"text": " for"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,850",
+				"to": "00:00:01,380"
+			},
+			"offsets": {
+				"from": 850,
+				"to": 1380
+			},
+			"text": " weekends"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,380",
+				"to": "00:00:01,640"
+			},
+			"offsets": {
+				"from": 1380,
+				"to": 1640
+			},
+			"text": " off."
+		}
+	]
+}

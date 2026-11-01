@@ -1,0 +1,109 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/siddharthtanwar/AI_EXPLAINER_FACTORY/models/whisper/ggml-small.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,090"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 90
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,090",
+				"to": "00:00:00,140"
+			},
+			"offsets": {
+				"from": 90,
+				"to": 140
+			},
+			"text": " it"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,140",
+				"to": "00:00:00,420"
+			},
+			"offsets": {
+				"from": 140,
+				"to": 420
+			},
+			"text": " has"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,420",
+				"to": "00:00:00,840"
+			},
+			"offsets": {
+				"from": 420,
+				"to": 840
+			},
+			"text": " already"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,840",
+				"to": "00:00:01,190"
+			},
+			"offsets": {
+				"from": 840,
+				"to": 1190
+			},
+			"text": " hired"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,190",
+				"to": "00:00:01,260"
+			},
+			"offsets": {
+				"from": 1190,
+				"to": 1260
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,260",
+				"to": "00:00:01,760"
+			},
+			"offsets": {
+				"from": 1260,
+				"to": 1760
+			},
+			"text": " lawyer."
+		}
+	]
+}

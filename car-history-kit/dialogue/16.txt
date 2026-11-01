@@ -1,0 +1,13 @@
+Jun: Automatic is one gearbox design, right?
+
+Mira: It describes who handles the shifting, not one universal mechanism. A common automatic uses a torque converter to transfer engine power through moving fluid, with gearsets and clutches providing different ratios.
+
+Jun: A fluid handshake instead of my left foot negotiating with a clutch pedal.
+
+Mira: A dual-clutch transmission divides gears between two clutches, commonly odd and even sets, so the next gear can be prepared before the handover.
+
+Mira: A belt or chain CVT changes its effective pulley diameters to vary the ratio continuously. It need not jump between a fixed set of steps.
+
+Jun: Stairs versus a ramp. Both get you upstairs, with different complaints from enthusiasts.
+
+Mira: And an e-CVT label on some hybrids can refer to a different power-split system, not that belt-and-pulley design. Similar names do not guarantee identical machinery.

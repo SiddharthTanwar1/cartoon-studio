@@ -1,0 +1,27 @@
+# Local environments, downloaded model weights, and generated state
+.venv/
+venv/
+runtime/
+models/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+logs/
+cache/
+projects/
+uploads/
+shorts/
+work/
+jobs.json
+current.json
+latest.json
+scene-queue.json
+installation-report.json
+# Keep published sample renders; ignore new jobs.
+renders/*
+!renders/demo/
+!renders/coffee-demo/

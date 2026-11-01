@@ -1,0 +1,13 @@
+Rowan: If burning fuel makes motion, why not just make everything hotter?
+
+Mira: Because engines have temperature limits. In a liquid-cooled design, coolant carries heat from the engine to a radiator, where it passes to the surrounding air. A thermostat helps regulate circulation.
+
+Rowan: The radiator is the engine politely opening a window.
+
+Mira: Oil does a different job: it forms lubricating films between moving surfaces, reduces wear and also helps carry heat and contamination. Coolant and oil are not interchangeable beverages.
+
+Rowan: And the metal rings around the piston?
+
+Mira: They help seal combustion pressure and control oil on the cylinder wall. The whole machine depends on clearances, seals and lubrication, not just dramatic flames.
+
+Rowan: So the engine is mostly tiny gaps being managed extremely seriously.

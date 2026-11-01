@@ -1,0 +1,55 @@
+{
+  "status": "passed",
+  "duration_seconds": 46.740333,
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "frames": 1402,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "paid_api_calls": 0,
+  "dialogue": [
+    {
+      "line": 1,
+      "expected": "I slept four hours. But I feel ready to make eight hours of questionable decisions.",
+      "heard": " I slept four hours, but I feel ready to make eight hours of questionable decisions.",
+      "word_error_rate": 0.0
+    },
+    {
+      "line": 2,
+      "expected": "Sleep supports attention, memory and emotional well-being. It is maintenance time, not wasted time.",
+      "heard": " Sleep supports attention, memory and emotional well-being. It is maintenance time, not wasted time.",
+      "word_error_rate": 0.0
+    },
+    {
+      "line": 3,
+      "expected": "My brain's night staff keep arriving while I am watching one last video. They have formed a union.",
+      "heard": " My brain's night stuff keep arriving, while I am watching one last video, they have formed a union.",
+      "word_error_rate": 0.056
+    },
+    {
+      "line": 4,
+      "expected": "Children aged six to twelve generally need nine to twelve hours. Teenagers need eight to ten. Adults aged eighteen to sixty generally need at least seven.",
+      "heard": " Children aged 6 to 12 generally need 9 to 12 hours. Teenagers need 8 to 10. Adults aged 18 to 60 generally need at least 7.",
+      "word_error_rate": 0.0
+    },
+    {
+      "line": 5,
+      "expected": "So a child is not an adult with a smaller charging cable.",
+      "heard": " So a child is not an adult with a smaller charging cable.",
+      "word_error_rate": 0.0
+    },
+    {
+      "line": 6,
+      "expected": "Protect enough sleep time and keep bedtime and waking time consistent. Regular trouble sleeping deserves attention from a healthcare professional.",
+      "heard": " Protect enough sleep time and keep bedtime and waking time consistent. Regular trouble sleeping deserves attention from a health care professional.",
+      "word_error_rate": 0.1
+    },
+    {
+      "line": 7,
+      "expected": "Tonight, one last video will have an actual definition of last.",
+      "heard": " Tonight, one last video will have an actual definition of last.",
+      "word_error_rate": 0.0
+    }
+  ]
+}
